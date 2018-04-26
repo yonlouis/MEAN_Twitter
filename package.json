@@ -1,0 +1,32 @@
+{
+  "name": "mean_twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonlouis/MEAN_Twitter.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Application"
+  ],
+  "author": "Yon LOUIS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonlouis/MEAN_Twitter/issues"
+  },
+  "homepage": "https://github.com/yonlouis/MEAN_Twitter#readme",
+  "dependencies": {
+    "@angular/cli": "^1.7.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
+}
